@@ -78,3 +78,6 @@ npm run dev
 * Score tracking
 * Timer feature
 * Better UI/UX
+
+https://chatgpt.com/share/69e873b1-0794-8329-8197-09a0a7a69bff
+
